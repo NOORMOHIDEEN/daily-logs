@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> daily-logs</title>
-    <link>http://example.org/</link>
+    <link>https://noormohideen.github.io/daily-logs/</link>
     <description>Recent content on  daily-logs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Jun 2021 14:02:09 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noormohideen.github.io/daily-logs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Daily-logs</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://noormohideen.github.io/daily-logs/posts/my-first-post/</link>
       <pubDate>Sat, 12 Jun 2021 14:02:09 +0530</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://noormohideen.github.io/daily-logs/posts/my-first-post/</guid>
       <description>this is my first hugo work.</description>
     </item>
     
